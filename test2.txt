@@ -1,3 +1,7 @@
 açıklamayı silebilirim
 ve başka şeyler de yapabilirim.
+<<<<<<< HEAD
 silinen 
+=======
+
+>>>>>>> 75ec30f (tüm değisiklikler yaıldı)

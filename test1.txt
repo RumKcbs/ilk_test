@@ -1,2 +1,5 @@
 test1 dosyasında ilk değişiklik yaptım yeniden.
+<<<<<<< HEAD
 test1 de html2 sonrası  yaptığım değişiklik bu.
+=======
+>>>>>>> 75ec30f (tüm değisiklikler yaıldı)
